@@ -7,3 +7,4 @@ for el in mylist:
 
 total_fruits=len(mylist)
 print('Total fruits='+str(total_fruits))
+print('Hello')
